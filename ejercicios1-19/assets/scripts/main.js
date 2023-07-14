@@ -80,7 +80,6 @@ console.log(frutas[2])
 console.log(frutas[3])
 console.log(frutas[4])
 
-
 //Ejercicio Catorce
 const numeros = [1, 2, 3, 4, 5]
 console.log(numeros)
